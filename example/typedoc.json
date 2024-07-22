@@ -29,5 +29,9 @@
     ],
     "markdownItOptions": {
         "html": true
-    }
+    },
+    "navigation": {
+        "includeCategories": true
+    },
+    "projectDocuments": ["loomings.md"]
 }
