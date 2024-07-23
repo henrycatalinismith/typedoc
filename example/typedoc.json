@@ -33,5 +33,6 @@
     "navigation": {
         "includeCategories": true
     },
-    "projectDocuments": ["loomings.md"]
+    "projectDocuments": ["loomings.md"],
+    "alwaysCreateEntryPointModule": false
 }
